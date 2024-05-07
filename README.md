@@ -17,7 +17,7 @@
 |:-:|-:|
 |Filtres, conversion (ligne de commandes)|[ImageMagick](https://imagemagick.org/index.php)|
 |Photo colorimétrie|[Raw therapee](https://www.rawtherapee.com/)|
-|Photos ||
+|Photos |[Darktable](https://www.darktable.org/)|
 |Animation, images 2D|[krita](https://krita.org/en/)|
 |Image 2D, montage, compsiting|[gimp](https://www.gimp.org/)|
 |Vectoriel, image 2D|[inkscape](https://inkscape.org/)|
