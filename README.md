@@ -39,6 +39,7 @@
 ## Traitement et composition son
 |Usage|Logiciel|
 |:-:|-:|
+|Mixage DJing|[Mixxx](https://mixxx.org/)|
 |Composition musicale|[lmms](https://lmms.io/)|
 |Mixage son|[ardour](https://ardour.org/)|
 |Programmation nodale|[Pure Data](https://puredata.info/)|
